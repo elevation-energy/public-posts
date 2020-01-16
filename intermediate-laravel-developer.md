@@ -35,5 +35,8 @@ Our new system relies on a handful of well tested private composer packages we h
 * 401K with matching eligibility
 * Way too many cookies from Tiffs Treats
 
+## Other Requirments
+* You must be willing/able to work on site in Austin, TX
+
 ## How to Apply
 * Please send your resume to tech@elevationeg.com

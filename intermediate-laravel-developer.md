@@ -1,7 +1,7 @@
 # Intermediate Laravel/PHP Developer
 
 ## On-site in Austin, TX only
-## Please do not apply for a remote position
+**Please do not apply for a remote position**
 
 ## Company Overview
 Elevation Energy Group is a privately held energy marketing company headquartered in Austin, TX. The company operates “retail energy” brands across that country which proudly serve electricity and natural gas to over 100,000 residential customers. Founded in 2012, Elevation Energy Group has delivered exceptional business results by challenging the norm in an industry ripe for disruption. The company is looking to add to its software development team to further drive sustainable expansion in the industry.

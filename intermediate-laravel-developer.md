@@ -1,6 +1,6 @@
 # Intermediate Laravel/PHP Developer
 
-## On site in Austin, TX only
+## On-site in Austin, TX only
 ## Please do not apply for a remote position
 
 ## Company Overview
